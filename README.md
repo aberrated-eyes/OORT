@@ -6,6 +6,7 @@ OORT (in reference to Jan Oort, a Dutch astronomer after which the Oort cloud is
 - Even-termed aspheric surfaces
 - Prisms and gratings
 - Tilted and de-centred elements
+- Optimisation and tolerancing tools
 - Spot and wavefront diagrams
 - Diffraction simulation and Strehl ratio
 - Modulation Transfer Function
